@@ -1,1 +1,1 @@
-include ':app', ':library'
+include ':app', ':library', ':pancakes-kotlin', ':pancakes-kotlin-sample'
